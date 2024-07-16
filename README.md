@@ -1,10 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luxshan!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋+I'm+Luxshan Thuraisingm!;" />
 </h1>
 <h3 align="center">A passionate Backend developer.</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=t-luxshan&label=Profile%20views&color=0e75b6&style=flat" alt="t-luxshan" /> 
+</p>
+
+<p align="left">
+  Highly motivated undergraduate with a strong academic background and a solid foundation in software development. Skilled in critical thinking, problem-solving, and fostering effective communication and collaboration within teams. Passionate about software engineering and eager to connect for collaborations on exciting projects or discussions about technology.
 </p>
 
 <p align="left"> 
@@ -24,7 +28,7 @@
   <a href="https://instagram.com/luxshan_thuraisingam" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luxshan_thuraisingam" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/luckybraveboys" target="blank">
+  <a href="https://www.hackerrank.com/profile/luckybraveboys" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/luckybraveboys" height="30" width="40" />
   </a>
 </p>
@@ -73,14 +77,8 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=t-luxshan&show_icons=true&locale=en&layout=compact&theme=dark" alt="t-luxshan" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=t-luxshan&show_icons=true&locale=en&theme=dark" alt="t-luxshan" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=t-luxshan&theme=dark" alt="t-luxshan" />
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t-luxshan&show_icons=true&locale=en&layout=compact&theme=dark" alt="t-luxshan" style="width: 32%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=t-luxshan&show_icons=true&locale=en&theme=dark" alt="t-luxshan" style="width: 32%;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=t-luxshan&theme=dark" alt="t-luxshan" style="width: 32%;"/>
+</div>
