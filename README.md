@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  📫 <a href="mailto:luxshan.thuraisingam@gmail.com">luxshan.thuraisingam@gmail.com</a>  📞 <a href="tel:+94764541834">+94 76 454 1834</a>
+  📫 <a href="mailto:luxshan.thuraisingam@gmail.com">luxshan.thuraisingam@gmail.com</a> &nbsp;&nbsp;&nbsp; 📞 <a href="tel://94764541834/">+94 76 454 1834</a>
 </p>
 
 ## 🌐 Socials:
