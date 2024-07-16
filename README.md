@@ -12,11 +12,10 @@
   Highly motivated undergraduate with a strong academic background and a solid foundation in software development. Skilled in critical thinking, problem-solving, and fostering effective communication and collaboration within teams. Passionate about software engineering and eager to connect for collaborations on exciting projects or discussions about technology.
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=t-luxshan&theme=darkhub" alt="t-luxshan" />
-  </a> 
-</p>
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/luck.lucky.1401933/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/luxshan_thuraisingam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luxshan-thuraisingam-b47264194/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
